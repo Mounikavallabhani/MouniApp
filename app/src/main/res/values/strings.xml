@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MouniApp</string>
+    <string name="facebook_app_id">127249781376859</string>
+    <string name="fb_login_protocol_scheme">fb127249781376859</string>
+</resources>
